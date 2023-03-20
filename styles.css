@@ -18,6 +18,15 @@ p {
     font-size: 20px;
 }
 
+ul {
+    color: #828b8a;
+    font-size: 20px;
+}
+
+li {
+    padding: 10px;
+}
+
 header {
     max-width: 1920px;
     margin: 40px auto;
