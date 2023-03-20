@@ -1,0 +1,34 @@
+body {
+    margin: 20px;
+    background: #d1dedd;
+}
+
+h1 {
+    color: #767f7e;
+    font-size: 48px;
+}
+
+h2 {
+    color: #767f7e;
+    font-size: 28px;
+}
+
+p {
+    color: #828b8a;
+    font-size: 20px;
+}
+
+header {
+    max-width: 1920px;
+    margin: 40px auto;
+    border-bottom: 1px solid #bbc7c7;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 5px;
+    max-width: 1920px;
+    margin: 20px auto;
+}
+
